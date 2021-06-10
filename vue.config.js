@@ -1,6 +1,6 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-  ? '/vue_pwa/dist/'
+  ? '/vue_firebase_pwa/dist/'
   : '/',
 
   pwa: {
